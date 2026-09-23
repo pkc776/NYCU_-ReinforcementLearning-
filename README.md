@@ -1,5 +1,8 @@
 # Reinforcement Learning Assignments
 
+**Semester:** Spring 2025  
+**Lecturer:** 謝秉均
+
 Three course assignments covering policy-gradient and actor-critic methods.
 
 | Folder | Topic | Main files |
@@ -20,4 +23,3 @@ Run a script from its assignment directory, for example:
 cd hw3
 python sac.py
 ```
-
